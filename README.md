@@ -5,7 +5,12 @@ The notebook with all of the code to reproduce our plots from the talk are in th
 
 # Setup
 
+You'll have to have [conda](https://conda.io/docs/user-guide/install/index.html) installed on your computer for this to work.
+
 ```bash
+git clone https://github.com/jbwhit/2018-grace-hopper-eda-workshop
+cd 2018-grace-hopper-eda-workshop
+cd setup
 conda env create -f environment.yml
 source activate eda3
 python -m ipykernel install --user --name eda3 --display-name eda3
