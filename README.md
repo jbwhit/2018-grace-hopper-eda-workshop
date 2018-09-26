@@ -1,7 +1,7 @@
 # 2018-grace-hopper-eda-workshop
 Grace Hopper Conference Materials
 
-
+The notebook with all of the code to reproduce our plots from the talk are in the notebooks directory. 
 
 # Setup
 
