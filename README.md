@@ -1,6 +1,8 @@
 # 2018-grace-hopper-eda-workshop
 Grace Hopper Conference Materials
 
+The slides from our workshop can be found [here](https://www.dropbox.com/s/u3ua82ej73keu8q/2018-GHC-EDA-FINAL-POST.pdf?dl=0). 
+
 The notebook with all of the code to reproduce our plots from the talk are in the notebooks directory. 
 
 # Setup
